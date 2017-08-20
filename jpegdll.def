@@ -1,4 +1,3 @@
-LIBRARY jpeg
 EXPORTS
 jpeg_std_error
 jpeg_CreateCompress
