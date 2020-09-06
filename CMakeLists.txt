@@ -1,5 +1,5 @@
+cmake_minimum_required (VERSION 3.13..3.18)
 project(libjpeg C)
-cmake_minimum_required(VERSION 2.8)
 
 option(LIBJPEG_BUILD_SHARED "Build libjpeg as a shared library?" ON)
 option(LIBJPEG_BUILD_EXECUTABLES "Build libjpeg executables?" ON)
